@@ -1,0 +1,16 @@
+Experience,Education,Role,Department,Age,Salary
+1,Diploma,IT Support,IT,22,22000
+3,Bachelor,Web Developer,Development,25,35000
+6,Master,System Analyst,IT,30,60000
+2,Bachelor,QA Engineer,Testing,24,32000
+5,Master,DevOps Engineer,Infrastructure,29,72000
+8,PhD,AI Engineer,Research,35,115000
+4,Master,Full Stack Developer,Development,28,68000
+2,Bachelor,Technical Writer,Documentation,26,36000
+7,PhD,Data Scientist,Analytics,34,95000
+5,Master,Security Analyst,Cybersecurity,31,79000
+3,Bachelor,UI/UX Designer,Design,27,40000
+1,Diploma,Helpdesk Technician,IT,23,21000
+6,Master,Cloud Architect,Infrastructure,32,98000
+9,PhD,Head of Engineering,Management,38,135000
+4,Bachelor,Database Administrator,Database,29,66000
